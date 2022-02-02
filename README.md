@@ -6,12 +6,11 @@
 ### Data Description: the data Provided : an excel file " QoS_B2B(ORANGE)" is a Quality of Service business to business survey done by Orange in 2019 in order to study the satisfaction of its clients compared to other operators (Ooredoo and Tunisie Telecom)
 
 ### Work Done:
-* Scrapping data for social networks (Twitter, Youtube, Facebook, Instagram)
+* Scrapping data from social networks (Twitter, Youtube, Facebook, Instagram)
 * Creation of a data warehouse for internal data 
-* Creation of mongo database to store external data
-* Creation of an arab dectionary using NLP on external data 
-* Predicting the customer satisfaction based of video , audio and comments
-* Predicting the custumor satisfaction from his answers to our client form
+* Creation of a mongoDB database to store external data
+* Creation of an arabic dectionary using NLP on external data 
+* Predicting the customer satisfaction based on video , audio and comments
 * Data Visualization using Internal and External Data
 * Deployement of models , Dashboards and chatbot to a website 
 
@@ -23,8 +22,8 @@
 * Microsoft tools ( SSMS , SSIS) :  for the datawarehouse creation and data integration
 * SQL server : internal data storing
 * MongoDB : external data storing
-* Power Bi :for the visualization part
-* Django framework : for the deployement phase
+* Power BI :data visualization 
+* Django framework : deployement phase
 
 ### Files & directories:
 * ChurnTel2 : includes the deployed project

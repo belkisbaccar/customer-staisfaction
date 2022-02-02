@@ -32,3 +32,7 @@
 * External Data Preparation : presents the python files used for the external data cleaning
 * Internal Data Preparation : presents the python files used for the internal data cleaning + the excel files of each step of the cleaning
 * Data Visualization : includes the pdf version of the rapport done in Power bi
+
+
+### Demonstration video: 
+https://drive.google.com/file/d/1MV4Efr6E1jsaheLkgzGnqKO7sRXmORKm/view?usp=sharing
